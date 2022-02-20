@@ -3,7 +3,7 @@ a JavaScript weather app
 
 ![Project Image](project-
 
-https://user-images.githubusercontent.com/12530131/154850056-e7d5f498-ffb1-4df9-9a9b-ce4af86690b6.mp4
+https://user-images.githubusercontent.com/12530131/154860870-2908881a-7424-4244-aa0a-e87ecc07cc87.mp4
 
 image-url)
 
@@ -31,39 +31,18 @@ A weather app using the  Accu-weather Api to display the weather of the city a u
 
 ---
 
-## License
-
-MIT License
-
-Copyright (c) [2021] [Herman Ombasa]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#weather-app)
-
----
-
 ## Author Info
 
 - Github - [@Ombasa](https://github.com/haman1)
 - Linkein -[@Ombasa](https://www.linkedin.com/in/ombasa-herman/)
 
-[Back To The Top](#weather-app)
+
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
 
 
