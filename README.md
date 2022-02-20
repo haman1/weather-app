@@ -55,14 +55,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#weather-app)
 
 ---
 
 ## Author Info
 
 - Github - [@Ombasa](https://github.com/haman1)
+- Linkein -[@Ombasa](https://www.linkedin.com/in/ombasa-herman/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#weather-app)
 
 
